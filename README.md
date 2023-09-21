@@ -4,55 +4,8 @@
 - 📫 How to reach me: joannesmadu@gmail.com
 - 🔎 Check out my website! : https://joannesmadu.notion.site/Joannes-Madu-7f5098033a7e4b39816905c043b45b82?pvs=4
 
-Technologies I am comfortable with: 
-
-
-
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/74c4bf5c-cfba-4cfc-a249-ba5e42869ce4)
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/f8daffd9-31bf-4e5f-b146-0b40ad599c4d)
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/844ef823-8948-4b40-9450-a87e2517066e) 
-
-
-
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/a1b94d34-bf7a-44ff-9707-c470fd93baf9)
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/cebd9ca9-4a32-4722-80dd-94925556cbf9)
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/f388bd27-50fd-4fba-a34b-071d3871c985) 
-
-
-
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/b2a50d73-2d80-4a9e-a41c-17df359d7fa7)
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/23e26616-ee1f-443d-bbd1-48d09ad35efd)
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/4278c69a-51cf-4215-ac3a-719ec43dee90) 
-
-
-
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/94987748-4660-4746-9fe1-766ef313c1f2)
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/312ac478-3095-418a-920a-b59ac008cba2)
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/e2e86729-4e9c-4b07-9b4c-19784fb7d0de) 
-
-
-
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/ada95f0e-10ed-4781-b137-aa1b20af596b)
-
-
-
-Currently learning: 
-
-
-
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/6521184c-6939-42d0-85ae-d9629d866204) 
-
-
-
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/34acf996-478f-479e-ad1b-6a5f13699f42) 
-
-
-
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/b91c06fc-421c-4547-8072-50921520b776) 
-
-
-
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/b3e0d721-430b-46ef-8f59-22437f52fd58)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
 <!---

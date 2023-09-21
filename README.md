@@ -5,8 +5,7 @@
 - 🔎 Check out my website! : https://joannesmadu.notion.site/Joannes-Madu-7f5098033a7e4b39816905c043b45b82?pvs=4
 
 Technologies I am comfortable with:
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/6521184c-6939-42d0-85ae-d9629d866204)
-![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/34acf996-478f-479e-ad1b-6a5f13699f42)
+
 ![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/74c4bf5c-cfba-4cfc-a249-ba5e42869ce4)
 ![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/f8daffd9-31bf-4e5f-b146-0b40ad599c4d)
 ![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/844ef823-8948-4b40-9450-a87e2517066e)
@@ -23,6 +22,9 @@ Technologies I am comfortable with:
 
 
 Currently learning:
+
+![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/6521184c-6939-42d0-85ae-d9629d866204)
+![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/34acf996-478f-479e-ad1b-6a5f13699f42)
 ![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/b91c06fc-421c-4547-8072-50921520b776)
 ![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/b3e0d721-430b-46ef-8f59-22437f52fd58)
 ![image](https://github.com/joannesmadu/joannesmadu/assets/134279516/ada95f0e-10ed-4781-b137-aa1b20af596b)

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joannesmadu
 - 👀 I’m interested in all things related to machine learning, deep learning, data analysis and data visualization
-- 🌱 I’m currently learning how to do those things to a refined degree as a recent graduet from the Le Wagon Data Science boot camp
+- 🌱 I’m currently learning how to do those things to a refined degree as a recent graduate from the Le Wagon Data Science boot camp in my current role as a Cloud Engineering Consultant
 - 📫 How to reach me: joannesmadu@gmail.com
 
 <h3 align="left">Technologies I'm familiar with:</h3>
